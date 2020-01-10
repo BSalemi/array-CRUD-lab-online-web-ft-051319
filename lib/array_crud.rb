@@ -29,3 +29,7 @@ end
 def retrieve_first_element_from_array(arr)
   return arr[0]
 end 
+
+def retrieve_last_element_from_array(arr)
+  return arr[-1]
+end 
